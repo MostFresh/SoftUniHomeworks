@@ -1,5 +1,5 @@
 function chislataOtMdoN(m,n){
-    for (i=m; m=n; i--){
+    for (i=m; i>=n; i--){
         console.log(i);
     }
 }
